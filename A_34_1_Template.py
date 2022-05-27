@@ -15,8 +15,6 @@ Matr.Nr.: k12043388
 
 Aufgabe 34.1 der Aufgabensammlung
 """
-# TODO: delete pprint
-from sympy import pprint
 from sympy import Sum, factorial, symbols, oo, pi, plot
 
 # Setze verwendete Symbole
