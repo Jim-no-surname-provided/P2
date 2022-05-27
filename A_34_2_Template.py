@@ -73,5 +73,3 @@ pB = plt.plot(range(1, 21), valB, 'ro', label='b_n')
 pC = plt.plot(range(1, 21), valC, 'go', label='c_n')
 pD = plt.plot(range(1, 21), valD, 'yo', label='d_n')
 plt.legend(loc=4, ncol=2)
-
-# %%
